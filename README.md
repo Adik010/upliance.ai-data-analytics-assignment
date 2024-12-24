@@ -1,8 +1,12 @@
 Data Analyst Intern Assignment
 
+
+
 Objective
 
 The objective of this project is to analyze datasets related to user behavior, cooking preferences, and order trends to derive insights and create visualizations. This assignment is designed for a Data Analyst Intern position.
+
+
 
 Datasets Used
 
@@ -14,6 +18,8 @@ This project uses the following datasets:
   
   OrderDetails.csv: Records user orders and related details.
   
+
+
 
 Steps Performed
 
@@ -74,6 +80,8 @@ Steps Performed
   A summary of insights and data analysis report was written to summary and report.txt.
   
 
+
+
 Visualizations
 
   Top 10 Popular Dishes: A bar plot showing the frequency of the top dishes.
@@ -83,6 +91,8 @@ Visualizations
   Cooking Session Ratings vs. Order Amount: A scatter plot illustrating the relationship between cooking session ratings and order amounts.
   
 
+
+
 Files
 
   final_data.csv: Contains the cleaned and merged dataset.
@@ -90,6 +100,8 @@ Files
   summary and report.txt: Summarizes key insights and findings and with a data analysis report having insights and recommendations.
     
   Python Script: Code used for data cleaning, merging, analysis, and visualization.
+
+
 
   
 How to Run
@@ -99,6 +111,8 @@ How to Run
   Run the Python script to execute all steps.
     
   View the generated visualizations and the output files (final_data.csv and summary.txt).
+
+
   
 
 Dependencies
@@ -115,6 +129,8 @@ Insights
     
   Visualizations provided actionable insights for business recommendations.
   
+
+
 
 For any questions, please contact the author of this analysis.
 
