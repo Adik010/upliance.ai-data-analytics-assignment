@@ -13,6 +13,7 @@ This project uses the following datasets:
   CookingSessions.csv: Tracks cooking sessions conducted by users.
   
   OrderDetails.csv: Records user orders and related details.
+  
 
 Steps Performed
 
@@ -71,50 +72,49 @@ Steps Performed
   The cleaned and merged dataset was saved as final_data.csv.
   
   A summary of insights and data analysis report was written to summary and report.txt.
+  
 
 Visualizations
 
-    Top 10 Popular Dishes: A bar plot showing the frequency of the top dishes.
+  Top 10 Popular Dishes: A bar plot showing the frequency of the top dishes.
     
-    Age Group Analysis: A bar chart displaying average orders by age group.
+  Age Group Analysis: A bar chart displaying average orders by age group.
     
-    Cooking Session Ratings vs. Order Amount: A scatter plot illustrating the relationship between cooking session ratings and order amounts.
+  Cooking Session Ratings vs. Order Amount: A scatter plot illustrating the relationship between cooking session ratings and order amounts.
+  
 
 Files
 
-    final_data.csv: Contains the cleaned and merged dataset.
+  final_data.csv: Contains the cleaned and merged dataset.
     
-    summary and report.txt: Summarizes key insights and findings and with a data analysis report having insights and recommendations.
+  summary and report.txt: Summarizes key insights and findings and with a data analysis report having insights and recommendations.
     
-    Python Script: Code used for data cleaning, merging, analysis, and visualization.
+  Python Script: Code used for data cleaning, merging, analysis, and visualization.
 
+  
 How to Run
 
-    Place the datasets (Data Analyst Intern Assignment - Excel.xlsx) in the working directory.
+  Place the datasets (Data Analyst Intern Assignment - Excel.xlsx) in the working directory.
     
-    Run the Python script to execute all steps.
+  Run the Python script to execute all steps.
     
-    View the generated visualizations and the output files (final_data.csv and summary.txt).
+  View the generated visualizations and the output files (final_data.csv and summary.txt).
+  
 
 Dependencies
 
 Python 3.6+
 
-    Libraries:
-    
-    pandas
-    
-    matplotlib
-    
-    seaborn
+  Libraries: pandas , matplotlib , seaborn
 
 Insights
 
-    Correlation between user engagement (session ratings) and order behavior was analyzed.
+  Correlation between user engagement (session ratings) and order behavior was analyzed.
     
-    Popular dishes and demographic factors influencing orders were identified.
+  Popular dishes and demographic factors influencing orders were identified.
     
-    Visualizations provided actionable insights for business recommendations.
+  Visualizations provided actionable insights for business recommendations.
+  
 
 For any questions, please contact the author of this analysis.
 
