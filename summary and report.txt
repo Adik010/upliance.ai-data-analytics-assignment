@@ -1,0 +1,84 @@
+SUMMARY:
+
+Correlation between Total Orders and Session Ratings:
+                Total Orders  Session Rating
+Total Orders        1.000000        0.511785
+Session Rating      0.511785        1.000000
+
+Top 10 Popular Dishes:
+Dish Name
+Spaghetti          4
+Grilled Chicken    4
+Caesar Salad       3
+Pancakes           2
+Veggie Burger      2
+Oatmeal            1
+Name: count, dtype: int64
+Average Orders by Age Group:
+Age
+18-25     8.000000
+26-35    11.428571
+36-45    13.500000
+46-60          NaN
+Name: Total Orders, dtype: float64
+
+
+
+
+Data Analysis Report:
+
+Key Insights-
+
+1. User Engagement Drives Orders
+We found that users who gave higher ratings to their cooking sessions tended to place more orders. In fact, there’s a clear positive link between how much they enjoyed a session and how much they spent.
+Dinner sessions, in particular, were the standout—generating higher ratings and more orders compared to breakfast or lunch.
+
+2. Most Loved Dishes
+Some dishes are real crowd-pleasers. Spaghetti, Grilled Chicken, and Caesar Salad top the list, consistently being ordered and cooked the most.
+These favorites likely resonate because they’re easy to make, delicious, and familiar.
+
+3. Who Are Our Core Customers?
+The most active customers fall in the 26-45 age range. This group placed the most orders and engaged heavily with the platform.
+Younger users (18-25), on the other hand, seem less engaged, which could mean we need to rethink how we’re appealing to them.
+We also noticed hotspots of activity in urban areas like New York and Los Angeles, which should shape our marketing efforts.
+
+4. Breakfast and Snacks Need Love
+While dinner and lunch are doing great, breakfast and snack sessions see much lower engagement. There’s a clear opportunity to grow these underperforming segments by making them more appealing and convenient.
+
+
+
+What Should We Do Next(Recommendations)?
+
+1. Make Cooking Sessions Even Better
+Focus on Quality: Let’s add more interactive elements to our cooking sessions, like live instructor options or step-by-step guidance. These could keep users engaged and happy.
+Reward Engagement: Offer discounts or free delivery for users who rate their sessions highly. This encourages more orders and builds loyalty.
+
+2. Target the Right Audience
+Go Big on the 26-45 Group: This is our most active audience, so let’s double down on personalized marketing for them. Highlight recipes that match their lifestyle and preferences.
+Attract Younger Users: For the 18-25 crowd, we could introduce social media challenges, influencer collaborations, or referral bonuses. This might make the platform feel more dynamic and relevant to them.
+
+3. Give Breakfast and Snacks a Makeover
+Convenience is Key: Introduce easy, quick, and healthy options for breakfast and snacks. Think smoothies, energy bars, or 10-minute meals.
+Promote the Benefits: Highlight the time-saving or health benefits of these options in our messaging.
+
+4. Leverage Data for Smarter Recommendations
+Use data to suggest dishes that align with what users like and what’s trending. For example, if someone loved cooking Spaghetti, recommend other pasta dishes.
+Predict customer needs: If someone had a great dinner session, nudge them to order more with a “Did you love this recipe? Try these next!” approach.
+
+5. Build Loyalty
+Let’s create a rewards program to keep customers coming back. For example:
+Points for every order or highly rated session.
+Exclusive perks for top customers, like free delivery or early access to new recipes.
+
+6. Celebrate Popular Dishes
+Spotlight crowd-favorites like Spaghetti, Caesar Salad, and Grilled Chicken in marketing campaigns. Pair them with meal kits or discounts for a stronger pull.
+
+The analysis confirms that the key to success lies in delighting customers during their cooking sessions. Happy customers lead to more orders, and focusing on their preferences—like dinner favorites and urban trends—can boost growth even further.By investing in better engagement, personalized marketing, and smarter recommendations, we’ll not only retain our current customers but also attract new ones, especially in segments where we’re underperforming.
+
+
+
+
+
+
+
+
